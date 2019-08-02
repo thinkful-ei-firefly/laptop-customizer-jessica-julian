@@ -1,5 +1,6 @@
 import React from 'react';
 import './Summary.css';
+import SummaryItem from './SummaryItem';
 
 function Summary (props) {
 
